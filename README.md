@@ -1,5 +1,5 @@
 
-# Live-Video-Sketching-through-webcam-using-OpenCv-Python
+# Live-Video-Sketching-through-webcam-using-OpenCv-Python 
 
 Technologies used
 
